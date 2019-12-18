@@ -29,6 +29,6 @@ public class WocaoApplication extends SpringBootServletInitializer {
 		for (int i = 0; i <100 ; i++) {
 			logger.info("--------------9909890");
 		}
-		return "最骚的就是你";
+		return "<image src=\"https://gss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/3bf33a87e950352addfd28125f43fbf2b2118b0f.jpg\"/>";
 	}
 }
