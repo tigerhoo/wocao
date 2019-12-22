@@ -9,5 +9,4 @@ class WocaoApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
